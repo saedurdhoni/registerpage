@@ -1,0 +1,48 @@
+*{margin: 0px;
+padding: 0px;
+border: 0;
+
+}
+
+
+#container{ text-align: center;
+width: 50%;
+color: yellow;
+background-color: green;
+margin: 5% auto;
+padding: 20px;
+}
+
+#container h1{font-size: 50px;
+    margin: 20px 0px;
+
+}
+ input, label{ display: block;
+   width: 50%;
+   margin: auto;
+}
+label {font-size: 20px;
+text-transform: uppercase;
+}
+input {padding: 10px;
+    margin: 10px auto;
+}
+p a {text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+p{ font-size: 20px;
+}
+input[type="Submit"]{
+    width: 30%;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: yellowgreen;
+    color: blue;
+    border-radius: 7px;
+}
+input[type="Submit"]:hover{ 
+background-color: blueviolet;
+color: aqua;
+}
+
